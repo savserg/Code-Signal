@@ -8,6 +8,7 @@ For n = 3, the output should be
 spiralNumbers(n) = [[1, 2, 3],
                     [8, 9, 4],
                     [7, 6, 5]]
+                    
 Input/Output
 
 [execution time limit] 4 seconds (py3)
